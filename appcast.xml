@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>TechTool</title>
+        <item>
+            <title>1.0</title>
+            <pubDate>Sat, 26 Sep 2026 20:36:22 +0300</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.6.2</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/TechnicalNick/TechTool_app/main/TechTool-1.0.0.zip" length="962718" type="application/octet-stream" sparkle:edSignature="g8SbBWUIFr6Tumj5xpf63yh/g3nWzRhQT2ZNYy9wOtWj730oYbtXc8gKza3omzpvn/xErbAqv4Y07dGNYLuNDA=="/>
+        </item>
+    </channel>
+</rss>
